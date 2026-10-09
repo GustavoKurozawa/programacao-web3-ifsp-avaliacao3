@@ -1,0 +1,15 @@
+br\edu\ifsp\prw3\conserto_api\conserto\Conserto.class
+br\edu\ifsp\prw3\conserto_api\conserto\ConsertoRepository.class
+br\edu\ifsp\prw3\conserto_api\conserto\DadosListagemConserto.class
+br\edu\ifsp\prw3\conserto_api\veiculo\Veiculo.class
+br\edu\ifsp\prw3\conserto_api\mecanico\DadosAtualizacaoMecanico.class
+br\edu\ifsp\prw3\conserto_api\mecanico\DadosMecanico.class
+br\edu\ifsp\prw3\conserto_api\conserto\DadosAtualizacaoConserto.class
+br\edu\ifsp\prw3\conserto_api\conserto\DadosCadastroConserto.class
+br\edu\ifsp\prw3\conserto_api\util\TratadorDeErros.class
+br\edu\ifsp\prw3\conserto_api\conserto\DadosDetalhamentoConserto.class
+br\edu\ifsp\prw3\conserto_api\veiculo\DadosVeiculo.class
+br\edu\ifsp\prw3\conserto_api\ConsertoApiApplication.class
+br\edu\ifsp\prw3\conserto_api\util\TratadorDeErros$DadosErroValidacao.class
+br\edu\ifsp\prw3\conserto_api\controller\ConsertoController.class
+br\edu\ifsp\prw3\conserto_api\mecanico\Mecanico.class
